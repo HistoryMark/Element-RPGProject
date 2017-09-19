@@ -1,0 +1,185 @@
+Element of Harmony
+
+Classes
+
+Fire +Atk, Weak to Water, Strong to Light
+-Archknight (Sword)
+-Blaze Hunter (Whip)
+
+Water +Mag, Weak to Earth, Strong to Fire
+-Frost Cleric (Rod)
+-Tidal Trickster (Staff)
+
+Earth +Def, Weak to Wind, Strong to Water
+-Stone Guardian (Hammer)
+-Terran Druid (Orb)
+
+Wind +Spd, Weak to Dark, Strong to Earth
+-Tempest Sniper (Bow)
+-Storm Assassin (Dagger)
+
+Dark +HP, Weak to Light, Strong to Wind
+-Void Summoner (Scepter)
+-Shadow Berserker (Axe)
+
+Light +Res, Weak to Fire, Strong to Dark
+-Dawn Sentinel (Lance)
+-Pulsar Gunner (Gun)
+
+Ether +MP, Strong and Weak against itself
+-Spirit Fighter (Gauntlet)
+-Arcane Sage (Tome)
+
+Nell +Balanced, No Strengths nor Weaknesses
+(Not implemented in game yet)
+-High General (Banner)
+-Hex Renegade (Relic)
+
+Summons Classes
+-Void Minion (Scepter;from Void Summoner)
+-Support Droid (Gun ;from Pulsar Gunner)
+-Rin-Yang (Twilight Justicar)
+
+Story Character Classes
+-The Eight Champions of Destiny, the Anomaly (Elza), and the Hero of Fate (Player)
+-Sam (Avatar) Hero of Fate: Highlander (Any Weapon
+-Elza, the Anomaly: Renegade (Gun/Sword)
+-Mark, Advocate of Truth of Selysia: Rune Master (Sword/Tome)
+-Xander, True Magistrate of Renendar: Twilight Justicar (Scepter/Lance)
+-Vincenzo, Unstoppable Force of Tejana: Infernal Fist (Sword/Gauntlet)
+-Lailah, Compassionate Heart of Perastral : Zephyr Keeper (Bow/Dagger)
+-Rin, Exquisite Empress of Azir: Terra Firma (Hammer/Lance;Leviathan)
+-Cordelia, the Unyielding Knight of Eurona: Luminous Defender (Lance/Axe;Falcon)
+-Tsuna, Serene Priestess of Senno:Sapphire Seraph (Rod/Tome)
+-Ronaldo, Defiant Prince of Uneva: Arc Sovereign (Banner/Sword)
+
+Branch of Fate
+After Chapter 10, the Avatar must choose a side to determine the fate of the world
+
+Order: Fight for Justice
+Alongside the Champions of the North:
+Xander of Renendar, Mark of Selysia, Rin of Azir, and Cordelia of Eurona
+
+Balance: Fight for Equality
+Alongside the Champions of the South:
+Ronaldo of Uneva, Lailah of Perastral, Vincenzo of Tejana, and Tsuna of Senno
+
+Unity: Fight to Unite
+Refuse to choose a side
+Fight with Elza
+
+Characters
+
+Sam (M/F (Canon);Avatar) - Highlander
+-The naive, but merciful and caring hero of fate. Wields the legendary weapon Shifter, and has a talent for tactics and leadership. Very patient and kind to allies and enemies alike.
+
+Elza (F) - Traveler
+-A silent,aloof, and enigmatic markswoman who trusts no one but her gunblade Eternus. Although she shows a cold shoulder to everyone, she truly cares for them. Fastest runner in the army.
+
+Mark (M) - Rune Master
+-The talented and cunning guildmaster of Selysia. Wields his own forged blade, Verum to channel the power of runic arts through. A kindhearted. humble, and soft-spoken mage who seeks peace. A very eloquent and persuasive orator.
+
+Lailah (F) - Zephyr Keeper
+-The gleaming and lovely guildmaster of Perastral. Wields the ancient bow Yggdrasil with strentgth and beauty. A natural beauty with a bubbly personality, she always brightens the room. Loves fashion and wears stylish attire.
+
+Xander (M) - Twilight Justicar
+-The genius advocate and Khan heir of Renendar. Carries out the will and judgement of his guild with his holy scepter Kyrzen. A well respected mediator, known for his strong sense of judgement. Always seen reading books while spending his free time.
+
+Ronaldo (M) - Arc Sovereign
+-The outspoken prince of Uneva. Rallies his allies with his regal banner Lancaster. Never afraid to speak up and argue for the sake of fairness and equality. A great orator and the most passionate about politics.
+
+Cordelia (F) - Luminous Defender
+-The brave and enduring princess and guildmaster of Eurona. Charges into battle to protect her allies with her royal regalia Ansalir. A strong and silent type, but also wears a warm and caring smile. Has the largest appetite.
+
+Vincenzo (M) - Infernal Fist
+-The blunt and dauntless leader and guildmaster of Tejana. Mercilessly fights any enemy with his demonic gauntlet Lucio. Hot-headed and quick to anger, but secretly is quite thoughtful and nice, especially to animals. The biggest animal lover.
+
+Rin (F) - Terra Firma
+-The dutiful and disciplined princess of Azir. Wields the divine hammer Ozu. Upholds traditions and customs of her land with strict obedience. Always busy with miscellaneous tasks and a huge workaholic.
+
+Tsuna (F) - Sapphire Seraph
+-The calm and apathetic priestess of Senno. Heals any grevious wound of her allies with her blessed rod Tenshi. Although she can be very lazy and has a tendency to daydream, she is very capable and skilled as a healer. A food lover and great chef.
+
+Selysian Guild
+Mark (Leader) - Rune Master
+Mary - Frost Cleric
+Yolanda - Dawn Sentinel
+Jason - Stone Guardian
+Dorothea - Tempest Ranger
+
+Perastral Guild
+Lailah (Leader) - Zephyr Keeper
+Maria - Terran Druid
+Hakan - Tidal Trickster
+Asa - Spirit Fighter
+Tarik - High General
+
+Renendar Guild
+Xander (Leader) - Twilight Justicar
+Nikolaj - Arcane Sage
+Chris - Archknight
+Sophia - Storm Assassin
+Aria - Pulsar Gunner
+
+Uneva Guild
+Ronaldo (Leader) - Arc Sovereign
+Janice - Void Summoner
+Sera - Stone Guardian
+Elena - Frost Cleric
+Ramone - High General
+
+Eurona Guild
+Cordelia (Leader) - Luminous Defender
+Eloise - Hex Renegade
+Athena - Tempest Ranger
+Jacques - Shadow Berserker
+Eizen - Archknight
+
+Tejana Guild
+Vincenzo (leader) - Infernal Fist
+Richard - Arcane Sage
+TJ - Pulsar Gunner
+Madison - Hex Renegade
+Julia - Blaze Hunter
+
+Azir Guild
+Rin (Leader) - Terra Firma
+Ling - Terran Druid
+Xiao - Spirit Fighter
+Ara - Dawn Sentinel
+Xin - Tidal Trickster
+
+Senno Guild
+Tsuna (leader) - Sapphire Seraph
+Yoichi - Arcane Sage
+Ari - Blaze Hunter
+Yuri - Shadow Berserker
+Shikamaru - Stom Assassin
+
+Special Classes
+
+Any Element
+-Royal Lord(Any Phys Weapon)
+-Envoy Sorcerer (Any Mag Weapon)
+-Villager (Lance/Bow) > Any Base Class
+(Not yet implemented in the game)
+-Dragonborn (Stone - Dragonstone(Mag))
+-Wolfborn (Stone - Beaststone(Atk))
+*Modeled after the Manakete and Beast Classes from Fire Emblem
+
+Special Enemy NPC Classes
+-Forsaken (Mini Bosses, Any Weapon, Any Element)
+-Paradox (Mini Bosses, Any Weapon, Any Element)
+-Chimera (Mini Bosses, Any Weapon, Any Element)
+-Dimension Weaver (Final Boss, Any Weapon, Any Element)
+-Servant (Enemy Infantry, Any Weapon, Any Element)
+-Titan (Enemy Tanks, Any Weapon, Any Element)
+-Rider (Enemy Cavalry, Any Weapon, Any Element)
+-Ghost (Enemy Flier, Any Weapon, Any Element)
+-Eldritch (Enemy Monster, Any Weapon, Any Element, +EXP)
+-Goblin (Enemy Monster, Any Weapon, Any Element, +Gold)
+
+Battle Format Ideas
+-Active Turn Based Combat (Resembling Final Fantasy, determined by speed affecting action meter)
+
+
