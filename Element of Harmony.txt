@@ -1,5 +1,5 @@
-Element of Harmony
-
+Elemental of Harmony
+Mechanics Database
 Classes
 
 Fire +Atk, Weak to Water, Strong to Light
